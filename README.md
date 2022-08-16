@@ -1,2 +1,2 @@
 # App-Projetos
-App de projetos com tarefas, usando interface gráficas e Maven.
+App de projetos com tarefas em JAVA, usando interface gráficas e Maven.
