@@ -1,4 +1,4 @@
-package br.com.mavenquickstart;
+package main;
 
 import java.util.List;
 
